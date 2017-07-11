@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/sampad/.config/i3'
+let g:netrw_dirhist_2='/sys/bus/platform/drivers/coretemp/coretemp.0'
+let g:netrw_dirhist_3='vpnc'
+let g:netrw_dirhist_4='/home/sampad/.vim'
+let g:netrw_dirhist_5='/home/sampad/.config'
+let g:netrw_dirhist_6='/home/sampad/.vim/bundle/vim-notes/misc/notes/shadow'
+let g:netrw_dirhist_7='/home'
